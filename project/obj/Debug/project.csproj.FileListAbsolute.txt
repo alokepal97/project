@@ -1,0 +1,14 @@
+C:\Users\ALOKE\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\ALOKE\source\repos\project\project\bin\Debug\project.exe.manifest
+C:\Users\ALOKE\source\repos\project\project\bin\Debug\project.application
+C:\Users\ALOKE\source\repos\project\project\bin\Debug\project.exe
+C:\Users\ALOKE\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.Form2.resources
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.exe.manifest
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.application
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.exe
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\ALOKE\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
